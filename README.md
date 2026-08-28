@@ -9,7 +9,7 @@ This Terraform module creates an [AWS EventBridge Schema Discoverer](https://reg
 
 ## Usage
 
-See the [complete example](examples/complete/) for a full working configuration.
+See the [complete example](examples/complete/) for a full working configuration, including required inputs.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
